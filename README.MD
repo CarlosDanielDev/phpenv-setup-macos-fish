@@ -24,7 +24,7 @@ Compiling PHP with phpenv on macOS (especially Apple Silicon) can be a nightmare
 1. Download the script
 
 ```bash
-curl -O https://raw.githubusercontent.com/CarlosDanielDev/phpenv-setup-macos-fish/main/phpenv-setup-macos.fish
+curl -O https://raw.githubusercontent.com/CarlosDanielDev/phpenv-setup-macos-fish/refs/heads/main/phpenv-setup-macos.fish
 ````
 
 2. Make it executable
