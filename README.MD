@@ -71,5 +71,6 @@ bzip2 not found → make sure the flags are applied correctly
 Fish config not reloading → try running `source ~/.config/fish/config.fish` manually
 
 ## ✨ Credits
-Created by @CarlosDanielDev after hours of fighting the PHP build on macOS.
+Created by ![@CarlosDanielDev](
+) after hours of fighting the PHP build on macOS.
 Feel free to fork, star, open issues or PRs 🙌
