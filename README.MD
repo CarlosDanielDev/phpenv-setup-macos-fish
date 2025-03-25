@@ -73,5 +73,3 @@ Fish config not reloading → try running `source ~/.config/fish/config.fish` ma
 ## ✨ Credits
 Created by @CarlosDanielDev after hours of fighting the PHP build on macOS.
 Feel free to fork, star, open issues or PRs 🙌
-
-# phpenv-setup-macos-fish
